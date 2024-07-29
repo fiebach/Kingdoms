@@ -1,0 +1,21 @@
+20
+22 9 Brunswick 2 1 10 0 0 0 0
+9 4 Hanover 1 1 10 0 0 0 0
+37 12 Prague 0 1 10 0 0 0 0
+37 6 Rothenburg 0 1 10 0 0 0 0
+29 28 Siena 0 1 10 0 0 0 0
+7 32 Carcassonne 0 1 10 0 0 0 0
+35 26 Colmar 0 1 10 0 0 0 0
+11 18 Tallinn 1 1 10 0 0 0 0
+6 25 Venice 0 1 10 0 0 0 0
+25 36 Edinburgh 0 1 10 0 0 0 0
+13 27 Hallstatt 0 1 10 0 0 0 0
+23 30 Chester 0 1 10 0 0 0 0
+7 11 Istanbul 0 1 10 0 0 0 0
+30 3 York 0 1 10 0 0 0 0
+17 34 Nuremberg 0 1 10 0 0 0 0
+29 22 Avila 0 1 10 0 0 0 0
+36 33 Dubrovnik 0 1 10 0 0 0 0
+19 2 London 0 1 10 0 0 0 0
+30 12 Obidos 0 1 10 0 0 0 0
+22 18 Cochem 2 1 10 0 0 0 0
